@@ -2,7 +2,7 @@ snchakrapani1983@gmail.com:
 AI Secret creation you can  use :
 
 https://platform.openai.com/welcome?step=try 
-
+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
 ======================================================================================
 PS C:\Users\Shesh> npm create vite@latest chatgpt-chatboat-frontend --template react
 
