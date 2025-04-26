@@ -1,0 +1,64 @@
+snchakrapani1983@gmail.com:
+AI Secret creation you can  use :
+
+https://platform.openai.com/welcome?step=try 
+
+======================================================================================
+PS C:\Users\Shesh> npm create vite@latest chatgpt-chatboat-frontend --template react
+
+> npx
+> create-vite chatgpt-chatboat-frontend react
+
+│
+◇  Select a framework:
+│  React
+│
+└  Done. Now run:
+
+  cd chatgpt-chatboat-frontend
+  npm install
+  npm run dev
+
+PS C:\Users\Shesh> cd .\chatgpt-chatboat-frontend\
+PS C:\Users\Shesh\chatgpt-chatboat-frontend> cd..
+PS C:\Users\Shesh> cd h:
+PS H:\> cd .\full-stack\
+PS H:\full-stack> npm create vite@latest chatgpt-chatboat-frontend --template react
+
+> npx
+> create-vite chatgpt-chatboat-frontend react
+
+│
+◇  Select a framework:
+│  React
+│  JavaScript
+│
+◇  Scaffolding project in H:\full-stack\chatgpt-chatboat-frontend...
+│
+└  Done. Now run:
+
+  cd chatgpt-chatboat-frontend
+  npm run dev
+
+PS H:\full-stack> cd .\chatgpt-chatboat-frontend\
+PS H:\full-stack\chatgpt-chatboat-frontend> npm install
+
+added 152 packages, and audited 153 packages in 24s
+
+32 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS H:\full-stack\chatgpt-chatboat-frontend> npm install bootstrap axios
+
+PS H:\full-stack\chatgpt-chatboat-frontend> npm run dev
+
+> chatgpt-chatboat-frontend@0.0.0 dev
+> vite
+
+
+  VITE v6.3.3  ready in 708 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
