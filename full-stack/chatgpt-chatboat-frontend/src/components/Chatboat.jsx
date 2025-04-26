@@ -39,7 +39,7 @@ const ChatBot = () => {
             <div className="card shadow-lg">
             <div className="bg-primary text-white text-center mx-auto my-3" 
                 style={{ width: "100%", padding: "10px 30px", borderRadius: "50px" }}>
-                <h4 className="mb-0">🤖 ChatGPT Chatbot by "Shesh"</h4>
+                  <h4 className="mb-0">🤖 Chatbot by "Shesh"</h4>
             </div>
 
                 <div className="card-body chat-box" style={{height:"300px", overflow: "auto"}}>
